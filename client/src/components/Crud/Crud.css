@@ -1,0 +1,106 @@
+.crud {
+  padding: 100px;
+}
+.crud .form {
+  display: flex;
+  align-items: center;
+}
+.crud input:not(.crudSubmit) {
+  border: 1px solid white;
+  border-radius: 10px;
+  margin: 10px;
+  outline: none;
+  padding: 10px 5px;
+  background: #22232e;
+  color: white;
+}
+
+.crud input::placeholder {
+  color: white;
+}
+
+.crudSubmit {
+  padding: 10px 15px;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  background: white;
+  color: black;
+}
+
+#customers {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#customers td,
+#customers th {
+  padding: 8px;
+}
+
+#customers tr:nth-child(even) {
+  background-color: #22232e;
+}
+
+#customers th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #ffffff;
+  color: black;
+}
+
+.tr td:first-child {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.clientPic {
+  width: 30px;
+  border-radius: 50%;
+}
+
+.editPopup {
+  position: absolute;
+  top: 40%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: none;
+  width: 150px;
+  height: 150px;
+}
+
+.editPopup form {
+  display: flex;
+  flex-direction: column;
+}
+
+.show {
+  border-radius: 10px;
+  color: black;
+  padding: 20px;
+  background: #171820;
+  border: 1px solid white;
+  height: max-content;
+  width: max-content;
+  display: block;
+}
+
+.show .crudSubmit {
+  background: #22232e;
+  color: white;
+}
+
+svg {
+  cursor: pointer;
+}
+
+.closePopup {
+  display: flex;
+  justify-content: flex-end;
+  cursor: pointer;
+  width: 100%;
+  color: white;
+}

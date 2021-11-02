@@ -1,0 +1,36 @@
+.clientes {
+}
+
+.clientes h1 {
+  margin-bottom: 20px;
+}
+.verMais a {
+  text-decoration: none;
+  color: white;
+}
+.verMais {
+  padding-right: 50px;
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+}
+.clienteList {
+  display: flex;
+  gap: 30px;
+  flex-wrap: wrap;
+}
+
+.clientCard {
+  border-radius: 10px;
+  padding: 15px 30px 15px 20px;
+  background: #22232e;
+  color: white;
+}
+
+.clientCard b {
+  color: #6d8ed5;
+}
+
+.clientCard div {
+  margin-bottom: 5px;
+}

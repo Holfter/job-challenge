@@ -1,0 +1,35 @@
+.chart {
+  padding-right: 40px;
+}
+
+.chart-options {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.custom-tooltip {
+  padding: 10px;
+  background: #171820;
+  -webkit-box-shadow: 0px 0px 29px -4px #000000;
+  box-shadow: 0px 0px 29px -4px #000000;
+}
+.button {
+  border: none;
+  background: none;
+  padding: 8px;
+  margin: 0 10px;
+  cursor: pointer;
+  color: white;
+  border-radius: 10px;
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+}
+
+.button:hover {
+  background: white;
+  color: black;
+}
+.active {
+  background: white;
+  color: black;
+}

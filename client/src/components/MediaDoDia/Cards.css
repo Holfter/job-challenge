@@ -1,0 +1,44 @@
+.cards-average {
+  padding: 10px;
+  border-radius: 10px;
+  height: max-content;
+  display: flex;
+  flex-direction: column;
+}
+
+.cards-average h1 {
+  margin-bottom: 20px;
+}
+
+.cards {
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+}
+
+.average-card {
+  background: #22232e;
+  width: 100%;
+  margin: 10px;
+  color: white;
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.average-card .cardName {
+  font-weight: 700;
+  margin-bottom: 10px;
+}
+
+.average-card .cardValue {
+  color: #6d8ed5;
+  font-weight: 700;
+}
+
+.cardImage {
+  width: 40px;
+  height: 40px;
+  margin-right: 15px;
+}
