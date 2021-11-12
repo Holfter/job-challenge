@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/job-challenge/static/css/main.71775d3e.chunk.css",
-    "main.js": "/job-challenge/static/js/main.2ab34e76.chunk.js",
-    "main.js.map": "/job-challenge/static/js/main.2ab34e76.chunk.js.map",
+    "main.css": "/job-challenge/static/css/main.9304758f.chunk.css",
+    "main.js": "/job-challenge/static/js/main.7a791453.chunk.js",
+    "main.js.map": "/job-challenge/static/js/main.7a791453.chunk.js.map",
     "runtime-main.js": "/job-challenge/static/js/runtime-main.446f6bd2.js",
     "runtime-main.js.map": "/job-challenge/static/js/runtime-main.446f6bd2.js.map",
-    "static/js/2.a9c5551f.chunk.js": "/job-challenge/static/js/2.a9c5551f.chunk.js",
-    "static/js/2.a9c5551f.chunk.js.map": "/job-challenge/static/js/2.a9c5551f.chunk.js.map",
+    "static/js/2.90987edc.chunk.js": "/job-challenge/static/js/2.90987edc.chunk.js",
+    "static/js/2.90987edc.chunk.js.map": "/job-challenge/static/js/2.90987edc.chunk.js.map",
     "index.html": "/job-challenge/index.html",
-    "static/css/main.71775d3e.chunk.css.map": "/job-challenge/static/css/main.71775d3e.chunk.css.map",
-    "static/js/2.a9c5551f.chunk.js.LICENSE.txt": "/job-challenge/static/js/2.a9c5551f.chunk.js.LICENSE.txt"
+    "static/css/main.9304758f.chunk.css.map": "/job-challenge/static/css/main.9304758f.chunk.css.map",
+    "static/js/2.90987edc.chunk.js.LICENSE.txt": "/job-challenge/static/js/2.90987edc.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.446f6bd2.js",
-    "static/js/2.a9c5551f.chunk.js",
-    "static/css/main.71775d3e.chunk.css",
-    "static/js/main.2ab34e76.chunk.js"
+    "static/js/2.90987edc.chunk.js",
+    "static/css/main.9304758f.chunk.css",
+    "static/js/main.7a791453.chunk.js"
   ]
 }
